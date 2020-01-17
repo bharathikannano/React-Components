@@ -5,7 +5,7 @@ Will be Updated soon...
 
 ###  npm
 Will be Updated soon...
-```shell npm install recat-components ```
+```npm install react-components-bk ```
 
 
 ## Usage
